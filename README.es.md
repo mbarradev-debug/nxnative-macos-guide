@@ -157,3 +157,7 @@ echo "DM_SAVE_SYNC=$HOME/Documents/nxnative-saves" >> ~/Library/Application\ Sup
 ## Aviso
 
 Esta es una guía no oficial escrita por la comunidad, sin relación con Nintendo ni con el proyecto nxnative. Usa solo juegos y llaves que hayas extraído legalmente de hardware propio.
+
+## Licencia
+
+Esta guía está bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE). Puedes compartirla y adaptarla, siempre que des el crédito correspondiente.

@@ -157,3 +157,7 @@ echo "DM_SAVE_SYNC=$HOME/Documents/nxnative-saves" >> ~/Library/Application\ Sup
 ## Disclaimer
 
 This is an unofficial, community-written guide and is not affiliated with Nintendo or with the nxnative project. Only use games and keys you have legally dumped from hardware you own.
+
+## License
+
+This guide is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You may share and adapt it, provided you give appropriate credit.
